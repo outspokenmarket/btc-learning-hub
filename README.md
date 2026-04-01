@@ -12,7 +12,7 @@ Admin: [Leandro Guerra - Outspoken Market](https://www.linkedin.com/in/leandrogu
 
 ---
 
-## 📂 Arquivos principais | Main Files
+## 📂 Main Files
 
 - [`learning-English.md`](./learning-English.md): List of resources in English
 
