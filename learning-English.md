@@ -33,11 +33,15 @@ A curated list of tools, links, guides, and communities to help anyone get start
 - [Lightning Network Limitations – by renepickhardt](https://github.com/renepickhardt/Lightning-Network-Limitations)  
   This repository contains Jupyter Notebooks and research papers that investigate the technical limitations of the Bitcoin Lightning Network protocol, particularly regarding its scalability for processing payments. It provides both theoretical insights and practical analysis of bottlenecks and constraints in the network.
 - [Plan ₿ Network](https://github.com/PlanB-Network/bitcoin-educational-content)
-  Plan ₿ Network supports Bitcoin education worldwide. This repo contains courses, tutorials, resources and more.
+  Plan ₿ Network supports Bitcoin education worldwide. This repo contains courses, tutorials, resources, and more.
 - [LND - Lightning Network Daemon (Golang)](https://github.com/lightningnetwork/lnd)
 - [c-lightning - A Lightning Network implementation in C](https://github.com/ElementsProject/lightning)
 
 ## 🛠️ 4. Tutorials & Tools
+
+### 4.0 Bitcoin fundamentals
+
+- [How Bitcoin works, how to use it, and how to work with it as a programmer (if you want to)](https://learnmeabitcoin.com/)
 
 ### 4.1 Full Node Setup
 
